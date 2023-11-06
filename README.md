@@ -1,6 +1,6 @@
 # MethodZeidelSimple
 
-## Описание сборки и использования библиотеки MethodZeidelSimple.
+## Использование библиотеки MethodZeidelSimple.
 
 1. Перейдите в нужный Вам репозиторий:  
 
